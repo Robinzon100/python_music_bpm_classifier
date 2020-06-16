@@ -9,7 +9,7 @@ clone the repo and do ```pipenv install``` if that doesn't work manualy install:
 2. ```pipenv install numba==0.48``` 
 
 
-then run ``` pipenv shell```, after that you can eather run ```python3 main.py "dubstep.mp3``` or ```node main.js````
+then run ``` pipenv shell```, after that you can eather run ```python3 main.py "dubstep.mp3``` or ```node main.js```
 
 
 
